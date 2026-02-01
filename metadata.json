@@ -1,0 +1,7 @@
+{
+  "name": "ID Photo AI Pro (Ảnh Thẻ AI)",
+  "description": "Professional ID photo generator using Gemini AI. Change outfits, backgrounds, and export in multiple standard sizes. (Tạo ảnh thẻ chuyên nghiệp, thay đồ, thay nền, xuất nhiều kích thước).",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
